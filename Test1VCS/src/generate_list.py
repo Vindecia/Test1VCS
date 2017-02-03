@@ -17,7 +17,7 @@ def main():
     printIt()
     
     
-    
+    2
     """
     If this script file is called, it will run main() directlt
     """
