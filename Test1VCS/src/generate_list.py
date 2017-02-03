@@ -10,7 +10,7 @@ def generate_list():
 def printIt():
     print(generate_list())
     
-def main()
+def main():
     printIt()
     
     
